@@ -2,7 +2,7 @@
 
 This roadmap provides a structured approach to mastering trading in the GER30 (DAX 30) index. It covers essential steps, from foundational knowledge to advanced trading strategies, with a focus on technical analysis, risk management, and continuous learning.
 
-![GER30 Trading Roadmap](https://github.com/Ayocrypt/React-Roadmap-for-python-developers/blob/main/file-bAW6R3LcI0Nf42YfJaNho3FD.png)
+![GER30 Trading Roadmap](https://github.com/Ayocrypt/Trade-GER30-like-a-Pro/blob/main/file-bAW6R3LcI0Nf42YfJaNho3FD%20(1).webp)
 
 ## 1. Foundation (1-2 Weeks)
 - **Learn the Basics:** Understand the GER30 index, stock market fundamentals, and different asset classes.
