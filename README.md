@@ -4,6 +4,53 @@ This roadmap provides a structured approach to mastering trading in the GER30 (D
 
 ![GER30 Trading Roadmap](https://github.com/Ayocrypt/Trade-GER30-like-a-Pro/blob/main/file-bAW6R3LcI0Nf42YfJaNho3FD%20(1).webp)
 
+## What is GER30 (now GER40)?
+The **GER30** (also referred to as **DAX 30**) was the benchmark German stock market index that tracked the 30 largest companies listed on the **Frankfurt Stock Exchange**. In **September 2021**, the index expanded to include **40 companies**, making it the **GER40 (DAX 40)**. This change aimed to provide broader representation of the German economy by incorporating more industries.
+
+### List of Companies in GER30 (before expansion to GER40):
+1. Adidas
+2. Allianz
+3. BASF
+4. Bayer
+5. Beiersdorf
+6. BMW
+7. Continental
+8. Covestro
+9. Daimler (now known as Mercedes-Benz Group)
+10. Deutsche Bank
+11. Deutsche Börse
+12. Deutsche Post
+13. Deutsche Telekom
+14. E.ON
+15. Fresenius
+16. Fresenius Medical Care
+17. HeidelbergCement
+18. Henkel
+19. Infineon Technologies
+20. Linde
+21. Merck
+22. MTU Aero Engines
+23. Munich Re (Münchener Rückversicherungs-Gesellschaft)
+24. RWE
+25. SAP
+26. Siemens
+27. Siemens Healthineers
+28. Volkswagen Group (VW)
+29. Vonovia
+30. Wirecard (collapsed and was replaced by Delivery Hero)
+
+### Additional Companies in GER40 (after the expansion):
+31. Airbus
+32. Brenntag
+33. Hellofresh
+34. Porsche Automobil Holding
+35. Puma
+36. Qiagen
+37. Sartorius
+38. Siemens Energy
+39. Symrise
+40. Zalando
+
 ## 1. Foundation (1-2 Weeks)
 - **Learn the Basics:** Understand the GER30 index, stock market fundamentals, and different asset classes.
 - **Resources:** Investopedia, free online courses.
