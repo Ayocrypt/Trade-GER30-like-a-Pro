@@ -238,3 +238,30 @@ XAUUSD:
    Asian Session (Less Volatile):
    - Start: 2:00 AM GMT+1
    - End:   10:00 AM GMT+1
+
+
+
+
+------------------
+
+
+**Recommended Trading Windows**:
+1. **Primary Window**: 1:30 PM - 4:30 PM GMT+1
+   - Highest liquidity
+   - Best price action
+   - Tighter spreads
+
+2. **Secondary Window**: 8:00 AM - 1:30 PM GMT+1
+   - Good volatility
+   - London session momentum
+   - Clear trends
+
+**Avoid Trading**:
+- 10:00 PM - 2:00 AM GMT+1 (Low liquidity)
+- Major news releases
+- US holidays
+
+Would you like:
+1. More detailed analysis of each session?
+2. Specific strategy recommendations for each time window?
+3. Information about news impact on XAUUSD?
