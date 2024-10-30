@@ -212,9 +212,11 @@ XAUUSD:
 
 
 
+---------------------
+---------------------
+---------------------
 
-
-## Exception for GOlD
+## Exception for GOLD
 # Best Trading Hours for XAUUSD (Nigeria Time - GMT+1):
 
 1. Primary Trading Sessions:
