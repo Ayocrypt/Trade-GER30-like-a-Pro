@@ -206,3 +206,33 @@ XAUUSD:
 - Day Trading: H1
 - Swing Trading: H4
 ```
+
+
+
+
+
+
+
+
+## Exception for GOlD
+# Best Trading Hours for XAUUSD (Nigeria Time - GMT+1):
+
+1. Primary Trading Sessions:
+
+   London Session (Most Active):
+   - Start: 8:00 AM GMT+1
+   - End:   4:30 PM GMT+1
+   
+   New York Session (High Volume):
+   - Start: 1:30 PM GMT+1
+   - End:   10:00 PM GMT+1
+
+2. Best Trading Windows:
+
+   Peak Liquidity (London-NY Overlap):
+   - Start: 1:30 PM GMT+1
+   - End:   4:30 PM GMT+1
+   
+   Asian Session (Less Volatile):
+   - Start: 2:00 AM GMT+1
+   - End:   10:00 AM GMT+1
